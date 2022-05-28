@@ -1,0 +1,23 @@
+body {
+  font-size: 16px;
+  font-family: roboto;
+}
+
+.pattern {
+  background-color: #fff;
+  height: 100vh;
+  width: clamp(100px, 30vw, 600px);
+  float: left;
+}
+.pattern--end {
+  background-color: #fff;
+  height: 100vh;
+  width: 46px;
+  float: left;
+}
+
+/* * 
+See all the boxes
+{
+  outline: 1px solid red !important;
+} */
